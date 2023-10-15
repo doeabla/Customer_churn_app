@@ -10,5 +10,5 @@ Customer Attrition Prediction App is a web application built with Gradio that pr
 * Interactive Visualization: Displays predictions in a clear and understandable format, making it easier for users to interpret the results.
 
 ## Installation
-
+* clone repo[gh repo clone doeabla/Customer_churn_app]
  
